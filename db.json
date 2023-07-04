@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "name": "Serkan",
+      "lastname": "Aydın",
+      "profilepic": "https://picsum.photos/536/352",
+      "text": "woaw!",
+      "comment": "You look awesome!",
+      "currentdate": "21/04/2022",
+      "url": "https://picsum.photos/536/353",
+      "commentpic": "https://picsum.photos/536/355",
+      "medias": [
+        {
+          "_id": "eU56UGkd2F_9CtK4FbBf4z8T.jpeg",
+          "width": 1000,
+          "height": 652,
+          "thumb": "https://picsum.photos/536/356",
+          "url": "https://picsum.photos/536/356",
+          "mimeType": "image/jpeg",
+          "type": "image"
+        },
+        {
+          "_id": "eU56UGkd2F_9CtK4FsBf4z7T.jpeg",
+          "width": 1000,
+          "height": 652,
+          "thumb": "",
+          "url": "https://picsum.photos/536/356",
+          "mimeType": "video/mp4",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "name": "Elif",
+      "lastname": "Aydın",
+      "profilepic": "https://picsum.photos/536/351",
+      "text": "Breathtaking!",
+      "comment": "It is great!",
+      "currentdate": "24/04/2022",
+      "url": "https://picsum.photos/536/354",
+      "commentpic": "https://picsum.photos/536/355",
+      "createdAt": "2023-04-11T12:22:09.337Z",
+      "updatedAt": "2023-04-11T12:22:09.339Z",
+      "medias": [
+        {
+          "_id": "eU56UGkd2F_9CtK4FbBf4z8T.jpeg",
+          "width": 1000,
+          "height": 652,
+          "thumb": "https://picsum.photos/536/356",
+          "url": "https://picsum.photos/536/356",
+          "mimeType": "image/jpeg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Seda",
+      "lastname": "Aydın",
+      "profilepic": "https://picsum.photos/536/351",
+      "text": "Breathtaking!",
+      "comment": "It is great!",
+      "currentdate": "24/04/2022",
+      "url": "https://picsum.photos/536/354",
+      "commentpic": "https://picsum.photos/536/355",
+      "createdAt": "2023-04-11T12:22:09.337Z",
+      "updatedAt": "2023-04-11T12:22:09.339Z",
+      "medias": [
+        {
+          "id": "eU56UGkd2F_9CtK4FbBf4z8T.jpeg",
+          "width": 1000,
+          "height": 652,
+          "thumb": "https://picsum.photos/536/356",
+          "url": "https://picsum.photos/536/356",
+          "mimeType": "image/jpeg",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}
