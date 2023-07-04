@@ -39,9 +39,7 @@ function renderData() {
       comment,
       url,
     } = item
-
-    console.log(url)
-
+    
     const postHTML = `
       <div class="post">
         <div class="info">
